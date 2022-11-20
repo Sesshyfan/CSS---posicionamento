@@ -1,0 +1,112 @@
+body{
+    background:gray;
+}
+
+
+.bloco1{
+    background-color: black;
+    width:90px;
+    height:90px;
+    left:0px;
+    top:0px;
+    position:absolute;
+}
+
+.bloco2{
+    background-color: black;
+    width:90px;
+    height:90px;
+    left:92px;
+    top:0px;
+    position:absolute;
+}
+
+.bloco3{
+    background-color:black;
+    width:90px;
+    height:90px;
+    left:184px;
+    top:0px;
+    position:absolute;
+}
+
+.bloco4{
+    background-color:black;
+    width:90px;
+    height:90px;
+    top:92px;
+    left:0px;
+    position:absolute;
+}
+
+.bloco5{
+    background-color:black;
+    width:90px;
+    height:90px;
+    top:92px;
+    left:92px;
+    position:absolute;
+}
+
+.bloco6{
+    background-color:black;
+    width:90px;
+    height:90px;
+    top:184px;
+    position:absolute;
+    left:0px;
+}
+
+.bloco7{
+    background-color:black;
+    width:90px;
+    height:90px;
+    bottom:0px;
+    right:0px;
+    position:absolute;
+}
+
+.bloco8{
+    background-color:black;
+    width:90px;
+    height:90px;
+    right:0px;
+    bottom:92px;
+    position:absolute;
+}
+
+.bloco9{
+    background-color:black;
+    width:90px;
+    height:90px;
+    right:0px;
+    bottom:184px;
+    position:absolute;
+}
+
+.bloco10{
+    background-color:black;
+    width:90px;
+    height:90px;
+    bottom:92px;
+    right:92px;
+    position:absolute;
+}
+
+.bloco11{
+    background-color:black;
+    width:90px;
+    height:90px;
+    bottom:0px;
+    right:92px;
+    position:absolute;
+}
+
+.bloco12{
+    background-color:black;
+    width:90px;
+    height:90px;
+    bottom:0px;
+    right:184px;
+    position:absolute;
+}

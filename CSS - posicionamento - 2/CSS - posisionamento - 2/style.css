@@ -1,0 +1,42 @@
+body{
+    background-color:gray;
+}
+
+.blackbox1{
+    background-color:rgb(3, 1, 1);
+    width:200px;
+    height:200px;
+    left: 0px;
+    top: 0px;
+    position:absolute;
+}
+
+.blackbox2{
+    background-color:rgb(3, 0, 0);
+    width:200px;
+    height:200px;
+    float: right;
+    right: 0px;
+    top: 0px;
+    position:absolute;
+}
+
+.blackbox3{
+    background-color:rgb(3, 0, 0);
+    width: 200px;
+    height: 200px;
+    float:bottom right;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+.blackbox4{
+    background-color:rgb(3, 0, 0);
+    width: 200px;
+    height:200px;
+    float:bottom right;
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+}
